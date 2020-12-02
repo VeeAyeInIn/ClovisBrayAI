@@ -1,0 +1,22 @@
+{
+  "name": "clovisbrayai",
+  "version": "1.0.0",
+  "description": "Discord Bot for handling administrative duties",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VeeAyeInIn/ClovisBrayAI.git"
+  },
+  "author": "VeeAyeInIn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VeeAyeInIn/ClovisBrayAI/issues"
+  },
+  "homepage": "https://github.com/VeeAyeInIn/ClovisBrayAI#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
